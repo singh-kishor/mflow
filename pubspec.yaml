@@ -14,6 +14,8 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  sqflite:
+  path:
 
 dev_dependencies:
   flutter_test:
