@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mflow/src/features/expense/expense_home.dart';
+import 'package:mflow/src/screens/expense/expense_home.dart';
 
 class ProductList extends StatelessWidget {
   const ProductList({Key? key}) : super(key: key);
